@@ -1,4 +1,4 @@
-ßimport os
+import os
 import csv
 
 DATA_PATH = "./case3"
